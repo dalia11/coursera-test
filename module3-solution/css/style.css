@@ -1,1 +1,55 @@
 
+body {
+    font-size: 16px;
+    background-color:white;
+}
+
+.navbar-bord h1{
+font-size: 2em;
+font-weight: bold;
+padding-top: 10px;
+margin-top: 0;
+ margin-bottom: 0;
+}
+#header-nav{
+background-color: yellow;
+
+}
+div#collapsable-nav{
+border-color: black;
+}
+#nav-list {
+    margin-top: 10px;
+}
+#nav-list a {
+    color: black;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: purple;
+}
+
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+.yellow {
+    background-color: grey;
+    padding: 0 10px;
+}
+
+section h3 {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+section p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+}
+
+.top {
+    color: blue;
+    font-weight: bold;
+}
